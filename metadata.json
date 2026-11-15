@@ -1,0 +1,6 @@
+{
+  "name": "S Tranz Fleet Management System",
+  "description": "Comprehensive fleet management system with vehicle maintenance, expense tracking, driver administration, and financial reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
